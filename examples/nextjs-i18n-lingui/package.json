@@ -14,7 +14,7 @@
     "@lingui/cli": "^3.16.1",
     "@lingui/react": "^3.16.1",
     "@next/font": "13.1.5",
-    "@plasmicapp/cli": "^0.1.203",
+    "@plasmicapp/cli": "^0.1.296",
     "@plasmicapp/loader-nextjs": "^1.0.222",
     "@types/node": "18.11.18",
     "@types/react": "18.0.27",
