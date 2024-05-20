@@ -37,9 +37,13 @@
 <p align="center">
   <a href="https://github.com/plasmicapp/plasmic"><img alt="License" src="https://img.shields.io/github/license/plasmicapp/plasmic" /></a>
   <a href="https://www.npmjs.com/package/@plasmicapp/loader-react"><img alt="Types" src="https://img.shields.io/npm/types/@plasmicapp/loader-react" /></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fits-a-lisa%2Fplasmic?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fits-a-lisa%2Fplasmic.svg?type=shield"/></a>
   <a href="https://github.com/prettier/prettier"><img alt="code style: prettier" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg" /></a>
   <a href="https://github.com/plasmicapp/plasmic/pulls"><img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" /></a>
 </p>
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fits-a-lisa%2Fplasmic.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fits-a-lisa%2Fplasmic?ref=badge_large)
 
 ## Quick links
 
